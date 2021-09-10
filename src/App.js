@@ -1,6 +1,7 @@
 import React from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Hobbies from "./components/Hobbies";
 // import LinkedIn from "./components/LinkedIn";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -15,6 +16,7 @@ export default function App() {
     {/* <LinkedIn /> */}
     <Projects />
     <Skills />
+    <Hobbies />
     <Testimonials />
     <Contact />
   </main>

@@ -50,4 +50,10 @@ export const skills = [
   "Kotlin",
   "Golang",
 ];
-// https://www.linkedin.com/in/aditya-chebiyyam-41733674/
+
+export const hobbies = [
+  "Bee keeping",
+  "Agriculture",
+  "Design and fabrication of small-scale agricultural instruments",
+  "Introducing technology to agriculture and experimenting"
+]
