@@ -1,13 +1,13 @@
 export const projects = [
   {
     title: "Developement of Drone based infrastructure for Agriculture.",
-    subtitle: "TBC",
+    subtitle: "This module consists of developing the quad copter following appropriate design for proper aviation. Addition to it will be inclusion of various features for the application. This module consists both of software and hardware implementation.",
     image: "./drone.jpg",
     link: "https://drive.google.com/drive/folders/1iCVTffzb5gKGmS7r-jJhpBwH5kJvAdQT?usp=sharing",
   },
   {
     title: "Jataayu Smart Panel",
-    subtitle: "TBC",
+    subtitle: "This is a handheld smart monitoring and visualization panel which collects and displays the environmental factors like temperature, humidity, weather forcast, soil moisture content and live video feed from the drone for better analysis and decision making.",
     description:
       "TBC",
     image: "./jataayu-monitor-panel.jpg",
@@ -15,13 +15,13 @@ export const projects = [
   },
   {
     title: "Solar Powered Automated Robot (SPARk)",
-    subtitle: "TBC",
+    subtitle: "A multi purpose Solar powered automated robot for agriculture. This machine can be used as a weed remover, garbage collector, crop carrier, etc.",
     image: "./spark1.jpg",
     link: "https://drive.google.com/drive/folders/1ohNbE1Rv5I_NLbToXFHM_u-GVl4lrWxo?usp=sharing",
   },
   {
     title: "Agri Suite",
-    subtitle: "TBC",
+    subtitle: "This module consists of designing and developing a smart monitor panel which is a compact hand held device for monitoring the ground conditions and other concerned factors. It too is designed keeping in mind it's ease of use and it's durability.",
     image: "./agrisuite.jpg",
     link: "https://drive.google.com/drive/folders/1eooiBSKMob9fnaWDCUQbpN3pq1l5_tFI?usp=sharing",
   },
