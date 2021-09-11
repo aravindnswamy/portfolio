@@ -31,7 +31,7 @@ export const projects = [
 ];
 export const testimonials = [
   {
-    quote: "TBC",
+    quote: "Aravind places himself to be one of the most reliable resource. His postive attitude towards challenges and quick learning capability makes him special in the team. Combined with excellent problem solving skills and experience in scaling solutions, Aravind is a great fit for engineering intensive roles!",
     image: "./gk.jpg",
     name: "GaneshKumar K R",
     company: "Associate Director of Product, Rakuten India",
@@ -66,7 +66,7 @@ export const experience = [
   {
     title: "Technical Intern",
     company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
-    description: "Worked on some of the challenging problems like \"Fraud prevention in Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)\". Worked on other critical POCs' like MySQL integration, developing a webser to process zipcodes and map coordinates.",
+    description: "Worked on some of the challenging problems like \"Fraud prevention in Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)\" and other critical POCs' like MySQL integration, etc,.               ",
     duration: "Feb 2019 to Jun 2019",
     url: "https://corp.rakuten.co.in/"
   },
