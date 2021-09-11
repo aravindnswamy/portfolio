@@ -27,7 +27,9 @@ export default function Experience() {
                         {exp.title}
                       </h1>
                       <h2 className="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">{exp.company}</h2>
-                      <p className="leading-relaxed" href={exp.url} target="_blank" rel="noopener noreferrer">{exp.description}</p>
+                      <p className="leading-relaxed" href={exp.url} target="_blank" rel="noopener noreferrer">
+                          <ul><li>{exp.description}</li></ul>
+                      </p>
                     </div>
                   </div>
                 </a>
