@@ -64,8 +64,15 @@ export const hobbies = [
 
 export const experience = [
   {
+    title: "R & D Intern",
+    company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
+    duration: "1-Feb-2019 to 30-Jun-2019",
+    url: "https://corp.rakuten.co.in/"
+  },
+  {
     title: "Software Engineer II",
     company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
-    duration: "15-Jul-2020 to Present",
+    duration: "15-Jul-2019 to Present",
+    url: "https://corp.rakuten.co.in/"
   }
 ]
