@@ -29,6 +29,11 @@ export default function About() {
               className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               Twitter
             </a>
+            <a
+              href="./Aravind_CV_SE2.pdf" target="_blank" rel="noopener noreferrer"
+              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg">
+              Download Resume
+            </a>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
