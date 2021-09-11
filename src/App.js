@@ -3,7 +3,6 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Hobbies from "./components/Hobbies";
-// import LinkedIn from "./components/LinkedIn";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
@@ -15,7 +14,6 @@ export default function App() {
     <Navbar />
     <About />
     <Experience />
-    {/* <LinkedIn /> */}
     <Projects />
     <Skills />
     <Hobbies />

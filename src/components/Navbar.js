@@ -11,6 +11,9 @@ export default function Navbar() {
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
+        <a href="#experience" className="mr-5 hover:text-white">
+            Experience
+          </a>
           <a href="#projects" className="mr-5 hover:text-white">
             My Projects
           </a>
@@ -23,9 +26,6 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          {/* <a href="#contactme" className="mr-5 hover:text-white">
-            Contact me
-          </a> */}
         </nav>
         <a
           href="#contact"

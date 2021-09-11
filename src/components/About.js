@@ -25,11 +25,6 @@ export default function About() {
               GitHub
             </a>
             <a
-              href="https://twitter.com/arvindnswamy_n" target="_blank" rel="noopener noreferrer"
-              className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Twitter
-            </a>
-            <a
               href="./Aravind_CV_SE2.pdf" target="_blank" rel="noopener noreferrer"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg">
               Download Resume
@@ -40,8 +35,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            // src="./formal.jpg"
-            src = "./preview.png"
+            src="./formal.jpg"
           />
         </div>
       </div>
