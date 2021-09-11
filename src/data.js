@@ -73,7 +73,7 @@ export const experience = [
   {
     title: "Software Engineer II",
     company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
-    description: "Worked on tackling some of the challenging problems Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)\nWorking in RPay",
+    description: ["Worked on tackling some of the challenging problems Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)", "Working in RPay"],
     duration: "Jul 2019 to Present",
     url: "https://corp.rakuten.co.in/"
   }
