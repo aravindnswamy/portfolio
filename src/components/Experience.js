@@ -15,18 +15,18 @@ export default function Experience() {
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
-              {projects.map((project) => (
+              {experience.map((exp) => (
                 <a
                   className="sm:w-1/2 w-100 p-4">
                   <div className="flex relative">
                     <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                       <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                        {experience.duration}
+                        {exp.duration}
                       </h2>
                       <h1 className="title-font text-lg font-medium text-white mb-3">
-                        {experience.title}
+                        {exp.title}
                       </h1>
-                      <p className="leading-relaxed">{experience.company}</p>
+                      <p className="leading-relaxed">{exp.company}</p>
                     </div>
                   </div>
                 </a>
