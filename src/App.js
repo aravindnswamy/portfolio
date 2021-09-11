@@ -1,6 +1,7 @@
 import React from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Experience from "./components/Experience";
 import Hobbies from "./components/Hobbies";
 // import LinkedIn from "./components/LinkedIn";
 import Navbar from "./components/Navbar";
@@ -13,6 +14,7 @@ export default function App() {
     <main className="text-gray-400 bg-gray-900 body-font">
     <Navbar />
     <About />
+    <Experience />
     {/* <LinkedIn /> */}
     <Projects />
     <Skills />

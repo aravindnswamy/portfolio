@@ -60,3 +60,12 @@ export const hobbies = [
   "Design and fabrication of small-scale agricultural instruments",
   "Introducing technology to agriculture and experimenting"
 ]
+
+
+export const experience = [
+  {
+    title: "Software Engineer II",
+    company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
+    duration: "15-Jul-2020 to Present",
+  }
+]
