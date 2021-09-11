@@ -16,16 +16,13 @@ export default function Experience() {
             </div>
             <div className="flex flex-wrap -m-4">
               {experience.map((exp) => (
-                <a
-                  className="sm:w-1/2 w-100 p-4">
+                <a className="sm:w-1/2 w-100 p-4" href={exp.url} target="_blank" rel="noopener noreferrer">
                   <div className="flex relative">
                     <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-100 hover:opacity-100">
-                      <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
-                        {exp.duration}
-                      </h2>
-                      <h1 className="title-font text-lg font-medium text-white mb-3">
-                        {exp.title}
-                      </h1>
+                      <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">{exp.duration}</h2>
+                      <h1 className="title-font text-lg font-medium text-white mb-3">{exp.title}</h1>
+                      <h2 className="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">{exp.company}</h2>
+                      <h1 className="title-font text-lg font-medium text-white mb-3">{exp.title}</h1>
                       <h2 className="tracking-widest text-sm title-font font-medium text-blue-400 mb-1" href={exp.url} target="_blank" rel="noopener noreferrer">{exp.company}</h2>
                       <p className="leading-relaxed">{exp.description}</p>
                     </div>

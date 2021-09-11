@@ -66,14 +66,14 @@ export const experience = [
   {
     title: "Technical Intern",
     company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
-    description: "Worked on some of the challenging problems like \"Fraud prevention in Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)\"",
+    description: "Worked on some of the challenging problems like \"Fraud prevention in Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD)\". Worked on other critical POCs' like MySQL integration, developing a webser to process zipcodes and map coordinates.",
     duration: "Feb 2019 to Jun 2019",
     url: "https://corp.rakuten.co.in/"
   },
   {
     title: "Software Engineer II",
     company: "Rakuten India Enterprise Pvt Ltd, Bengaluru, KA",
-    description: "Worked on tackling some of the challenging problems Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD).\n\nCurrently working in RPay(Rakutens' E2E Payment platform for Japan. Like UPI in India!)",
+    description: "Worked on tackling some of the challenging problems Rakuten ID(An E2E IAM ecosystem developed by Eco System Service Department(ESD). Currently working in RPay (Rakutens' E2E Payment platform for Japan. Like UPI in India!).",
     duration: "Jul 2019 to Present",
     url: "https://corp.rakuten.co.in/"
   }
