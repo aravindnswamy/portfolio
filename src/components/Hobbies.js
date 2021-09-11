@@ -1,4 +1,4 @@
-import { BadgeCheckIcon, TemplateIcon, ArrowCircleRightIcon } from "@heroicons/react/solid";
+import { TemplateIcon, ArrowCircleRightIcon } from "@heroicons/react/solid";
 import React from "react";
 import { hobbies } from "../data";
 
