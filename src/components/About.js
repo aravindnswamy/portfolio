@@ -19,16 +19,16 @@ export default function About() {
               LinkedIn
             </a>
             <br></br>
-            <a
+            {/* <a
               href="https://github.com/aravindnswamy" target="_blank" rel="noopener noreferrer"
               className="iml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               GitHub
-            </a>
-            <a
+            </a> */}
+            {/* <a
               href="./Aravind_CV_SE2.pdf" target="_blank" rel="noopener noreferrer"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg">
               Download Resume
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

@@ -32,9 +32,9 @@ export const projects = [
 export const testimonials = [
   {
     quote: "Aravind places himself to be one of the most reliable resource. His postive attitude towards challenges and quick learning capability makes him special in the team. Combined with excellent problem solving skills and experience in scaling solutions, Aravind is a great fit for engineering intensive roles!",
-    image: "./gk.jpg",
-    name: "GaneshKumar K R",
-    company: "Associate Director of Product, Rakuten India",
+    image: "./aditya.png",
+    name: "Ganesh N Sharma",
+    company: "Specialist Software Engineer, SocGen",
   },
   {
     quote: "Aravind pays attention to and recognizes security aspects and their implications on projects and products. He's  proactive in coming up with queries and suggestions to improve security. He's committed to getting in-depth knowledge of whatever stack he's working on and using that to continuously improve himself, others and the product. He has a good eye for detail in interpreting specifications into actual features. His energetic attitude is infectious and is an asset to any team that he's a part of.",
